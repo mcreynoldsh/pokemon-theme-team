@@ -1,0 +1,10 @@
+.cover-size{
+    height: 10rem;
+    width: 10rem;
+}
+
+.background{
+    background-image: url("https://external-preview.redd.it/z7_wYb9-YSvt0pDJlDIu8iuK_aWdqZPg0wvrGdwNvBw.png?auto=webp&s=b40bf3d0bccf7fe4f8dc601182710ca34eac2222");
+    height: 1000px;
+    background-size: cover;
+}
